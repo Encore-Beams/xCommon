@@ -1,0 +1,3 @@
+include ':xCommon'
+include ':app'
+rootProject.name = "xCommon"
