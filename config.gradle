@@ -14,7 +14,7 @@ ext.build_versions = build_versions
 def versions = [:]
 versions.hilt = "2.38.1"
 //kotlin 插件版本
-versions.kotlin_stdlib = "1.4.32"
+versions.kotlin_stdlib = "1.5.20"
 //kotlin 代码库 核心
 versions.core_ktx = "1.6.0"
 //fragment kotlin 依赖库
@@ -26,7 +26,7 @@ versions.material = "1.4.0"
 //约束布局库
 versions.constraintlayout = "2.1.0"
 //androidx lifecycle version
-versions.lifecycle_version = "2.4.0-alpha02"
+versions.lifecycle_version = "2.4.0-alpha03"
 //androidx activity version
 versions.activity_version = "1.2.3"
 //okhttp
@@ -36,4 +36,8 @@ versions.logging_interceptor = "4.0.0"
 //json 解释库
 versions.moshi = "1.12.0"
 versions.converter_moshi = "2.9.0"
+//协程
+versions.coroutines = "1.5.1"
+//immersionbar
+versions.immersionbar = "3.0.0"
 ext.versions = versions;

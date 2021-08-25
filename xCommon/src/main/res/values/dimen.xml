@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_tab_indicator_width">20dp</dimen>
+    <dimen name="common_tab_indicator_height">2dp</dimen>
+    <dimen name="common_tab_indicator_radius">2dp</dimen>
+    <dimen name="common_toolbar_bar_default_height">48dip</dimen>
+
+</resources>

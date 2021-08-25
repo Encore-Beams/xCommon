@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_selected_count"
+    android:layout_width="match_parent"
+    android:layout_height="36dp"
+    android:background="#FFF6F7F9"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:text=""
+    android:textColor="#FF222222"
+    android:textSize="14sp">
+
+</TextView>

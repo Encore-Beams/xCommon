@@ -1,7 +1,7 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     apply from: 'config.gradle'
-    ext.kotlin_version = "1.5.10"
+    ext.kotlin_version = "1.5.20"
     repositories {
         maven {
             allowInsecureProtocol = true
@@ -20,6 +20,7 @@ buildscript {
             url 'http://maven.aliyun.com/nexus/content/repositories/jcenter'
         }
         maven { url 'https://jitpack.io' }
+        mavenCentral()
         google()
     }
     dependencies {
@@ -50,6 +51,7 @@ allprojects {
             url 'http://maven.aliyun.com/nexus/content/repositories/jcenter'
         }
         maven { url 'https://jitpack.io' }
+        mavenCentral()
         google()
     }
 }

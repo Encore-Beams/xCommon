@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id"/>
+    <item name="view_stub_tabbar" type="id"/>
+    <item name="multi_choice_count" type="id"/>
+    <item name="action_mode_parent" type="id"/>
+    <item name="checkbox" type="id"/>
+</resources>

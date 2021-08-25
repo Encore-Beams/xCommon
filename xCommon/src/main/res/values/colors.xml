@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common_toolbar_bg">#ffffff</color>
+    <color name="common_toolbar_title_text_color">#222222</color>
+    <color name="common_toolbar_background_divide_color">#4DA1A1A1</color>
+    <color name="common_tabbar_selected_color">#222222</color>
+    <color name="common_tabbar_unselected_color">#A6A6A6</color>
+
+</resources>
